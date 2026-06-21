@@ -1,8 +1,8 @@
-version: 0.5.24
+version: 0.5.26
 files:
-  - url: ChatApp-Setup-0.5.24.exe
-    sha512: UsiwI7pBC12Pu871c+GBKf5M/q5X/PBzEL6rml6su1NujfRZXhMOfNqkb+u8ifmKL1RGGZjvu3LnsYV6SWB+7Q==
-    size: 93395038
-path: ChatApp-Setup-0.5.24.exe
-sha512: UsiwI7pBC12Pu871c+GBKf5M/q5X/PBzEL6rml6su1NujfRZXhMOfNqkb+u8ifmKL1RGGZjvu3LnsYV6SWB+7Q==
-releaseDate: '2026-06-20T23:37:18.436Z'
+  - url: ChatApp-Setup-0.5.26.exe
+    sha512: jyOSDiWNYTBTUHh7d5lJbgwGHhZMr8gqVZz6mAQya/R73ZHEHo0wRkKg1DFyZSLV9/HUDQ51mtquJGgT22WLhg==
+    size: 93395532
+path: ChatApp-Setup-0.5.26.exe
+sha512: jyOSDiWNYTBTUHh7d5lJbgwGHhZMr8gqVZz6mAQya/R73ZHEHo0wRkKg1DFyZSLV9/HUDQ51mtquJGgT22WLhg==
+releaseDate: '2026-06-21T00:02:24.072Z'
