@@ -1,8 +1,9 @@
-version: 0.6.2
+version: 0.6.5
+mandatory: true
 files:
-  - url: ChatApp-Setup-0.6.2.exe
-    sha512: kTzoFl9kJ5Q9htPIw7LU6NYY7ueT0N9FSreY5tsNik0qfZeyBfeKgPD/c/csgV4Pz4cG1vBEFnRCYkOsbuGADg==
-    size: 93493661
-path: ChatApp-Setup-0.6.2.exe
-sha512: kTzoFl9kJ5Q9htPIw7LU6NYY7ueT0N9FSreY5tsNik0qfZeyBfeKgPD/c/csgV4Pz4cG1vBEFnRCYkOsbuGADg==
-releaseDate: '2026-06-28T15:50:45.329Z'
+  - url: ChatApp-Setup-0.6.5.exe
+    sha512: 1Zl16d9DX4f8ii/zNBmVBB088evocf/u5WgU/n73IDEq1usf5UhhI8RjlTxT+92skfd5W9GT8BT4hqOl32GyiA==
+    size: 93511677
+path: ChatApp-Setup-0.6.5.exe
+sha512: 1Zl16d9DX4f8ii/zNBmVBB088evocf/u5WgU/n73IDEq1usf5UhhI8RjlTxT+92skfd5W9GT8BT4hqOl32GyiA==
+releaseDate: '2026-06-28T16:25:14.384Z'
